@@ -1,8 +1,7 @@
-# Phantom-Control
-###Phantom Control
-####Minecraft: Java Edition - Data Pack 
+# Phantom Control  
+#### Minecraft: Java Edition - Data Pack   
 
-#### More control over pesky Phantoms!  
+### More control over pesky Phantoms!  
 
     Purpose:  
     Give players more control over how phantoms effect them.  
