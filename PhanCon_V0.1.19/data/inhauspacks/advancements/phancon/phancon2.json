@@ -1,0 +1,19 @@
+{
+    "display": {
+        "title": "More Info                                                          ",
+        "description": ["",
+        {"text":"Phantoms will behave as normal by default, players can choose to make them freindly.  Admins can choose to kill ''Friendly Phantoms'' with kill.phantoms, players can save them by turning off freindly phantoms and using /trigger save-phantom","color":"green"}
+    ],
+    "icon": {
+        "item": "minecraft:phantom_membrane"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+    },
+    "parent": "inhauspacks:phancon/phancon",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": "How to use                       ",
+        "description": ["",
+        {"text":"/trigger phantoms -              toggle friendly phantoms","color":"gold"},{"text":"\n"},
+        {"text":"(if kill.phantoms is enabled phantoms within 15 blocks will die)","color":"yellow"},{"text":"\n"},
+        {"text":"/trigger save-phantom -          mark nearest phantom to be saved from kill.phantoms","color":"gold"},{"text":"\n"},
+        {"text":"(will also show nearby saved phantoms with particles)","color":"yellow"},{"text":"\n"},
+        {"text":"/trigger save-phantom set 2 -   Show Particles only, No marking","color":"gold"},{"text":"\n"},
+        {"text":"Phantoms will behave as normal by default, players can choose to make them freindly.  Admins can choose to kill ''Friendly Phantoms'' with kill.phantoms, players can save them by turning off freindly phantoms and using /trigger save-phantom","color":"green"}
+    ],
+    "icon": {
+        "item": "minecraft:elytra"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+    },
+    "parent": "inhauspacks:phancon",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
