@@ -1,6 +1,6 @@
 #phancon:tick
 execute unless score #phancon phancon.config matches 1.. as @e[type=phantom] run team join friendly-phantom
-execute if score #phancon phancon.config matches 1.. as @e[type=phantom,team=friendly-phantom] run team leave friendly-phantom
+execute if score #phancon phancon.config matches 1.. as @e[type=phantom,team=friendly-phantom] run team leave @s
 #execute if score #phancon.kill phancon.config matches 1.. as @e[type=phantom,team=friendly-phantom] run tp @s ~ -200 ~
 execute if score #phancon.kill phancon.config matches 1.. at @a[team=friendly-phantom] as @e[type=minecraft:phantom,team=friendly-phantom,distance=..15] unless entity @s[tag=save-phantom] run tp @s ~ -200 ~
 
