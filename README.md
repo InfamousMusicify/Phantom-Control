@@ -22,30 +22,15 @@
     Compatibility:  
 Will not work (or will break the other pack) with any other datapacks that utilize adding a player to a team. or packs that add phantoms to a team.  
 
-`(Mojang... Teams are kind of scuffed... why cant an entity join multiple teams...  i get it but... this is limiting haha.)`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+`(Mojang... Teams are kind of scuffed... why cant an entity join multiple teams...  i get it but... this is limiting haha.)`  
 
 ### [Donations appreciated:🔗](https://www.patreon.com/InfamousMusicify)   
 __All of my projects take an inordinate amount of time to upkeep/create.  
 I use my free time to make them. Any support would be much appreciated!  
 If you enjoy these packs and want to see more like them and see them maintained, send me some love!__    
 
-I spent an inordinate amount of time making this so, I really hope you enjoy. :)   
-Special Thanks to M.R. Programs for helping me create this.  
-and to mcskware for his prng datapack for 1.13 and willingness to share his code.  
+This shud just be a basegame feature... f&$^ phantoms.
+I hope you enjoy. :)   
 
 Cheers   
 -Infamous   
