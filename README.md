@@ -5,7 +5,7 @@
 
     Purpose:  
     Give players more control over how phantoms effect them.  
-    Make phantoms friendly or kill them, near players with the setting enabled.  
+    Make phantoms friendly or kill them near players with the setting enabled.  
     Phantoms will behave as normal by default, players can choose to make them freindly.    
     Admins can choose to kill ''Friendly Phantoms'' with kill.phantoms, 
     players can save them by turning off freindly phantoms and using /trigger save-phantom.   
